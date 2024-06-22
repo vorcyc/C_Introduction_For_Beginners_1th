@@ -1,5 +1,6 @@
 这是一本C语言入门的电子书，欢迎阅览！！
 
+This repo is about a free e-book for C for beginners , enjoy it!
 ## 目录
 
 #### 1 基础介绍
