@@ -1,6 +1,6 @@
 这是一本C语言入门的电子书，欢迎阅览！！
 
-This repo is about a free e-book for C for beginners , enjoy it!
+This repo is about a free e-book of C programming language for beginners , enjoy it!
 
 ![C Intro Cover](/CIntro_cover.png "C Intro Cover")
 
