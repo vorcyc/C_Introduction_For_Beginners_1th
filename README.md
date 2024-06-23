@@ -2,7 +2,7 @@
 
 This repo is about a free e-book for C for beginners , enjoy it!
 
-![C Intro Cover](/blob/main/CIntro_cover.png "C Intro Cover")
+![C Intro Cover](/CIntro_cover.png "C Intro Cover")
 
 
 
